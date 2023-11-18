@@ -1,6 +1,14 @@
 # PersianSignLanguage
 Persian SignLanguage Dataset
 
+This dataset is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. You should have received a copy of the license along with this work. If not, see <http://creativecommons.org/licenses/by-nc-nd/4.0/>.
+
+For commercial use of this dataset, please contact the author for a custom license agreement.
+This Dataset was collected/supported in part by University of IRBU 
+
+
+
+
 
 Persian SignLanguage Dataset © 2024 by MohammadPooya Malek is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/
 Persian SignLanguage Dataset © 2024 by MohammadPooya Malek is licensed under Attribution-NonCommercial-NoDerivatives 4.0 International. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/
